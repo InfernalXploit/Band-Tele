@@ -2,7 +2,7 @@
 
 LOCK_FILE="$HOME/.termux_lock"
 PASSWORD="infernalxploit" # Ganti dengan password kamu
-SCRIPT_PATH="$HOME/Hack.sh" # Nama file diubah jadi Hack.sh
+SCRIPT_PATH="$HOME/lock_termux.sh" # Nama file script ini
 
 # Matikan fungsi CTRL+C, CTRL+Z, dan keluar paksa
 trap '' SIGINT SIGTSTP SIGQUIT SIGTERM
@@ -12,10 +12,8 @@ if ! grep -q "$SCRIPT_PATH" "$HOME/.bashrc"; then
     echo "bash $SCRIPT_PATH" >> "$HOME/.bashrc"
 fi
 
-# Kalau password sudah benar sebelumnya, hapus auto-start & lanjut ke Termux normal
+# Kalau file lock sudah ada, langsung lanjut ke Termux normal
 if [ -f "$LOCK_FILE" ]; then
-    sed -i "/bash $SCRIPT_PATH/d" "$HOME/.bashrc" # Hapus dari auto-start
-    rm -f "$LOCK_FILE" # Hapus lock file
     exit 0
 fi
 
@@ -37,7 +35,7 @@ while true; do
     echo ""
 
     if [ "$input" == "$PASSWORD" ]; then
-        touch "$LOCK_FILE"
+        touch "$LOCK_FILE" # Buat file lock agar tidak minta password lagi
         echo -e "\033[1;36m[✔] Akses Diterima, Selamat Datang!\033[0m"
         sleep 2
         break
